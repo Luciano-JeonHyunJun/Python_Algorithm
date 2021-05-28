@@ -37,6 +37,8 @@ for coin in coin_type:
 print(count)
 ~~~
 
+코드를 해석해보자면 우선 손님께 드릴 N에 2170원을 대입시켜둡니다<br />
+
 
 
 
